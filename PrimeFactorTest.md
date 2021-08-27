@@ -22,5 +22,7 @@ Your tests should verify that the following numbers result in a valid output:
 
 **Hint:** Your first test might confirm that, given an input of one, Generate() returns an empty collection.
 
+Once you have completed the project, clone this repo and submit a pull request. 
+
 # Resources #
 - [Walkthrough by Uncle Bob Martin](http://butunclebob.com/ArticleS.UncleBob.ThePrimeFactorsKata)
