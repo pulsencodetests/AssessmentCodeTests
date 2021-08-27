@@ -23,4 +23,4 @@ The omdb api can be found at [OMDB](https://www.omdbapi.com/) . There you will f
 
 Although the task itself is relatively straightforward, what we are looking for is to see how well you grasp the basics and how you have developed the project according to established best practises.
 
-Once you believe you have completed the task and wish to submit, then clone this repo and simply submit a pull request with your name.
+Once you believe you have completed the task and wish to submit, then clone this repo and simply submit a pull request.
