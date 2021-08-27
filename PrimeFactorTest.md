@@ -10,15 +10,15 @@ Write a class named "PrimeFactors" that has one static method: Generate(). Gener
 
 Your main task is complete teh generate method above and write parameterised tests to verify this functionality. 
 Your tests should verify that the following numbers result in a valid output:
-0 => []
--1 => []
-3 => []
-9 => [3,3]
-12 => [2,2,3]
-44 => [2,2,11]
-156 => [2,2,3,13]
-67892 => [2,2,11,1543]
-1023405 => [3,5,68227]
+* 0 => []
+* -1 => []
+* 3 => []
+* 9 => [3,3]
+* 12 => [2,2,3]
+* 44 => [2,2,11]
+* 156 => [2,2,3,13]
+* 67892 => [2,2,11,1543]
+* 1023405 => [3,5,68227]
 
 **Hint:** Your first test might confirm that, given an input of one, Generate() returns an empty collection.
 
